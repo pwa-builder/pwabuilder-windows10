@@ -1,2 +1,2 @@
 # manifoldjs-windows10
-ManifoldJS Windows 10 Platform
+ManifoldJS Windows 10 platform
