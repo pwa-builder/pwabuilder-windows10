@@ -1,6 +1,6 @@
 'use strict';
 
-var transformation = require('../../../lib/manifestTools/transformations/windows10');
+var transformation = require('../../lib/manifest');
 var should = require('should');
 
 describe('transformation: Windows 10 Manifest', function () {
@@ -30,7 +30,7 @@ describe('transformation: Windows 10 Manifest', function () {
 
       transformation.convertFromBase(originalManifestInfo, function (err) {
         should.exist(err);
-        err.should.have.property('message', 'Start url is required.');
+        err.should.have.property('message', 'Start URL is required.');
         done();
       });
     });

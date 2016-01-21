@@ -31,6 +31,7 @@
     "Windows"
   ],
   "dependencies": {
+    "q": "^1.4.1",
     "archiver": "^0.20.0",
     "cloudappx-server": "^0.0.4",
     "request": "^2.67.0",
@@ -38,7 +39,20 @@
     "manifoldjs-lib": "git://github.com/manifoldjs/manifoldjs-lib.git"
   },
   "devDependencies": {
+    "blanket": "1.1.6",
+    "grunt": "^0.4.5",
+    "grunt-contrib-jshint": "^0.11.3",
+    "grunt-mocha-test": "^0.12.7",
+    "jshint-stylish": "^1.0.0",
+    "jshint-teamcity": "^1.0.6",    
+    "load-grunt-tasks": "^1.0.0",
+    "should": "^5.0.1",
+    "time-grunt": "^1.0.0",
+    "travis-cov": "^0.2.5"
   },
+  "scripts": {
+    "debug-tests": "mocha --debug-brk"
+  },  
   "bugs": {
     "url": "https://github.com/manifoldjs/manifoldjs-windows10/issues"
   },
