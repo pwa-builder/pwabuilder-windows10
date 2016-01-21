@@ -1,6 +1,6 @@
 'use strict';
 
-var transformation = require('../../lib/manifest');
+var transformation = require('../lib/manifest');
 var should = require('should');
 
 describe('transformation: Windows 10 Manifest', function () {
