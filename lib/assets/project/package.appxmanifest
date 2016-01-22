@@ -16,7 +16,7 @@
   <build:Metadata>
     <build:Item Name="ManifoldJSVersion" Version="{ManifoldJSVersion}" />
     <build:Item Name="PlatformId" Value="{PlatformId}" />
-    <build:Item Name="PlatformPackage" Value ="{PlatformPackage}" />
+    <build:Item Name="PlatformPackage" Value="{PlatformPackage}" />
     <build:Item Name="PlatformVersion" Version="{PlatformVersion}" />
     <build:Item Name="GeneratedFrom" Value="{GeneratedFrom}" />
     <build:Item Name="GenerationDate" Value="{GenerationDate}" />{MetadataItems}
