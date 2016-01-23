@@ -56,7 +56,7 @@
     "travis-cov": "^0.2.5"
   },
   "scripts": {
-    "debug-tests": "mocha --debug-brk"
+    "debug-tests": "mocha test/**/*.js --debug-brk"
   },  
   "bugs": {
     "url": "https://github.com/manifoldjs/manifoldjs-windows10/issues"
