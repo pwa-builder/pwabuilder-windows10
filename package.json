@@ -1,7 +1,7 @@
 {
   "name": "manifoldjs-windows10",
-  "version": "0.0.1",
-  "description": "Manifoldjs Windows 10 platform",
+  "version": "0.1.0",
+  "description": "Manifoldjs Windows 10 Platform",
   "repository": {
     "type": "git",
     "url": "https://github.com/manifoldjs/manifoldjs-windows10.git"
@@ -28,7 +28,12 @@
     "W3C",
     "Manifold",
     "ManifoldJS",
-    "Windows"
+    "Windows",
+    "Windows 10",
+    "UAP",
+    "Universal Application Platform",
+    "UWP",
+    "Universal Windows Platform"
   ],
   "dependencies": {
     "q": "^1.4.1",
@@ -36,7 +41,7 @@
     "cloudappx-server": "^0.0.4",
     "request": "^2.67.0",
     "hwa": "^0.0.5",
-    "manifoldjs-lib": "git://github.com/manifoldjs/manifoldjs-lib.git"
+    "manifoldjs-lib": "^0.1.0"
   },
   "devDependencies": {
     "blanket": "1.1.6",
