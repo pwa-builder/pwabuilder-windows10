@@ -14,7 +14,8 @@
   <mp:PhoneIdentity PhoneProductId="{PhoneProductId}" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
   
   <build:Metadata>
-    <build:Item Name="ManifoldJSVersion" Version="{ManifoldJSVersion}" />
+    <build:Item Name="GenerationTool" Version="{GenerationTool}" />
+    <build:Item Name="GenerationToolVersion" Version="{GenerationToolVersion}" />
     <build:Item Name="PlatformId" Value="{PlatformId}" />
     <build:Item Name="PlatformPackage" Value="{PlatformPackage}" />
     <build:Item Name="PlatformVersion" Version="{PlatformVersion}" />

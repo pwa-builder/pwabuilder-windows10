@@ -1,4 +1,4 @@
-ManifoldJS
+manifoldjs-windows10
 
 Copyright (c) Microsoft Corporation
 
