@@ -46,11 +46,12 @@
         DisplayName="{DisplayName}"
         Description="{Description}"
         BackgroundColor="{theme_color}"
-        Square150x150Logo="images\logo.png"
-        Square44x44Logo="images\smalllogo.png">
-
-        <uap:SplashScreen Image="images\splashscreen.png" />
-
+        Square150x150Logo="images\Square150x150Logo.png"
+        Square44x44Logo="images\Square44x44Logo.png">
+				<uap:SplashScreen Image="images\SplashScreen.png" /> 
+        <uap:DefaultTile Wide310x150Logo="images\Wide310x150Logo.png" 
+                          Square310x310Logo="images\Square310x310Logo.png" 
+                          Square71x71Logo="images\Square71x71Logo.png" />
         <uap:InitialRotationPreference>
           <uap:Rotation Preference="{RotationPreference}" />
         </uap:InitialRotationPreference>
