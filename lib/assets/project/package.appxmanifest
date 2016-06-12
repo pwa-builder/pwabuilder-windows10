@@ -26,7 +26,7 @@
   <Properties>
     <DisplayName>{DisplayName}</DisplayName>
     <PublisherDisplayName>user</PublisherDisplayName>
-    <Logo>images\storelogo.png</Logo>
+    <Logo>images\StoreLogo.png</Logo>
   </Properties>
 
   <Dependencies>
@@ -48,6 +48,7 @@
         BackgroundColor="{theme_color}"
         Square150x150Logo="images\Square150x150Logo.png"
         Square44x44Logo="images\Square44x44Logo.png">
+        <uap:LockScreen Notification="badge" BadgeLogo="images\BadgeLogo.png" />
 				<uap:SplashScreen Image="images\SplashScreen.png" /> 
         <uap:DefaultTile Wide310x150Logo="images\Wide310x150Logo.png" 
                           Square310x310Logo="images\Square310x310Logo.png" 
