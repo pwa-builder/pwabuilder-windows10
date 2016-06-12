@@ -20,7 +20,7 @@ IgnorableNamespaces="uap mp build">
 	<Properties> 
 		<DisplayName>{DisplayName}</DisplayName> 
     <PublisherDisplayName>INSERT-YOUR-PACKAGE-PROPERTIES-PUBLISHERDISPLAYNAME-HERE</PublisherDisplayName>
-    <Logo>images\storelogo.scale-100.png</Logo> 
+    <Logo>images\StoreLogo.png</Logo> 
 	</Properties> 
 
 	<Dependencies> 
@@ -39,6 +39,7 @@ IgnorableNamespaces="uap mp build">
 				Square44x44Logo="images\Square44x44Logo.png" 
 				Description="{Description}"	
 				BackgroundColor="{theme_color}"> 
+        <uap:LockScreen Notification="badge" BadgeLogo="images\BadgeLogo.png" />
 				<uap:SplashScreen Image="images\SplashScreen.png" /> 
 				<uap:DefaultTile Wide310x150Logo="images\Wide310x150Logo.png" 
 								Square310x310Logo="images\Square310x310Logo.png" 
