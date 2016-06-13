@@ -66,6 +66,7 @@
 
   <Capabilities>
     <Capability Name="internetClient" />
+    {Capabilities}
   </Capabilities>
 
 </Package>

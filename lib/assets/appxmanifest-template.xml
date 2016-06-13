@@ -56,7 +56,7 @@ IgnorableNamespaces="uap mp build">
 
 	<Capabilities>
 		<Capability Name="internetClient" />
-		<Capability Name="privateNetworkClientServer" />
+		{Capabilities}
 	</Capabilities>
 
 </Package>
