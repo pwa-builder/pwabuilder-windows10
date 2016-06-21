@@ -40,8 +40,10 @@
     "archiver": "^0.20.0",
     "cloudappx-server": "^0.0.4",
     "request": "^2.67.0",
-    "hwa": "^0.0.6",
     "manifoldjs-lib": "^0.1.2"
+  },
+  "optionalDependencies": {
+    "hwa": "^0.0.6"
   },
   "devDependencies": {
     "blanket": "1.1.6",
