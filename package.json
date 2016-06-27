@@ -37,7 +37,7 @@
   ],
   "dependencies": {
     "q": "^1.4.1",
-    "archiver": "^0.20.0",
+    "archiver": "^0.21.0",
     "cloudappx-server": "^0.0.4",
     "request": "^2.67.0",
     "manifoldjs-lib": "^0.1.2"
