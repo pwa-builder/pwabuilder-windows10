@@ -1,6 +1,6 @@
 {
   "name": "manifoldjs-windows10",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "Manifoldjs Windows 10 Platform",
   "repository": {
     "type": "git",
@@ -38,7 +38,7 @@
   "dependencies": {
     "q": "^1.4.1",
     "archiver": "^0.21.0",
-    "cloudappx-server": "^0.0.5",
+    "cloudappx-server": "^0.0.6",
     "request": "^2.67.0",
     "manifoldjs-lib": "^1.0.0"
   },
