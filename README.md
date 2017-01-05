@@ -12,7 +12,7 @@ npm install manifoldjs-windows10
 In node.js:
 
 ```
-var platform = require('manifoldjs-windows10')
+var platform = require('xanifoldjs-windows10')
 ```
 
 ## Documentation

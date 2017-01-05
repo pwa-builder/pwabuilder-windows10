@@ -2,7 +2,7 @@
 
 var should = require('should');
 
-var lib = require('manifoldjs-lib');
+var lib = require('xanifoldjs-lib');
 var validationConstants = lib.constants.validation;
 
 var constants = require('../../lib/constants'),  
