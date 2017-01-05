@@ -42,7 +42,8 @@
     "manifoldjs-lib": "^1.0.0",
     "q": "^1.4.1",
     "readline": "^1.3.0",
-    "request": "^2.67.0"
+    "request": "^2.67.0",
+    "xmldom": "^0.1.27"
   },
   "optionalDependencies": {
     "hwa": "^0.0.7"
