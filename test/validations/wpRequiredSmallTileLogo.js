@@ -2,10 +2,10 @@
 
 var should = require('should');
 
-var lib = require('xanifoldjs-lib');
+var lib = require('pwabuilder-lib');
 var validationConstants = lib.constants.validation;
 
-var constants = require('../../lib/constants'),  
+var constants = require('../../lib/constants'),
     validation = require('../../lib/validationRules/wpRequiredSmallTileLogo');
 
 var validIconSizes = ['71x71', '99x99', '170x170'];
