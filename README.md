@@ -1,18 +1,18 @@
-# manifoldjs-windows10
+# pwabuilder-windows10
 
-## ManifoldJS Windows 10 Platform
+## PWA Builder Windows 10 Platform
 
-Windows 10 platform module for [ManifoldJS](https://github.com/manifoldjs/ManifoldJS), a tool for creating hosted web applications based on a [W3C Web App manifest](http://www.w3.org/TR/appmanifest/).
+Windows 10 platform module for [PWA Builder](https://github.com/manifoldjs/ManifoldJS), a tool for creating hosted web applications based on a [W3C Web App manifest](http://www.w3.org/TR/appmanifest/).
 
 ## Installation
 
 ```
-npm install manifoldjs-windows10
+npm install pwabuilder-windows10
 ```
 In node.js:
 
 ```
-var platform = require('xanifoldjs-windows10')
+var platform = require('pwabuilder-windows10')
 ```
 
 ## Documentation
@@ -20,7 +20,7 @@ To get started, visit our [wiki](https://github.com/manifoldjs/ManifoldJS/wiki).
 
 ## License
 
-> manifoldjs-windows10
+> pwabuilder-windows10
 
 > Copyright (c) Microsoft Corporation
 
