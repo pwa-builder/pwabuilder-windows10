@@ -1,6 +1,6 @@
 {
   "name": "pwabuilder-windows10",
-  "version": "2.0.1-rc.1",
+  "version": "2.0.2-beta.1",
   "description": "PWA Builder Windows 10 Platform",
   "repository": {
     "type": "git",
