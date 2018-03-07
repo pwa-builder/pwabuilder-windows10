@@ -49,7 +49,7 @@ IgnorableNamespaces="uap mp build">
 				</uap:InitialRotationPreference> 
 			</uap:VisualElements> 
 			<uap:ApplicationContentUriRules>
-				
+				<uap:Rule Type="include" WindowsRuntimeAccess="none" Match="https://*"/>
 				{ApplicationContentUriRules}
 			</uap:ApplicationContentUriRules>
 		</Application> 
