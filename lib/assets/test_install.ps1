@@ -4,7 +4,7 @@ $isDeveloperMode = (Get-ItemProperty -Path $key -Name AllowDevelopmentWithoutDev
 if($isDeveloperMode)
 {
     $guid = 'INSERT-YOUR-PACKAGE-IDENTITY-NAME-HERE'
-    $appxmanifest = 'manifest\AppxManifest.xml'
+    $appxmanifest = 'appxmanifest\AppxManifest.xml'
 
     if(Test-Path $appxmanifest) {
         try {
