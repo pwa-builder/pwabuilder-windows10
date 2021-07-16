@@ -1,3 +1,11 @@
+# This repository is obsolete and archived
+
+This repository contained code to generate legacy Edge (EdgeHTML) web view-based PWAs. We've since migrated to the new Chromium-based Edge platform, rendering this repository obsolete and unused.
+
+Need to open an issue? Go to our main [PWABuilder repository](https://github.com/pwa-builder/pwabuilder/issues).
+
+Need to read docs about the new Chromium-based Windows platform? Go to [PwABuilder's Windows docs](https://github.com/pwa-builder/pwabuilder-windows-chromium-docs/blob/master/next-steps.md).
+
 # pwabuilder-windows10
 
 ## PWA Builder Windows 10 Platform
